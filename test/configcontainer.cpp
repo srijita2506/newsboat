@@ -738,3 +738,5 @@ TEST_CASE("get_article_sort_strategy() returns ascending direction "
 		REQUIRE(cfg.get_article_sort_strategy().sd == SortDirection::ASC);
 	}
 }
+
+.

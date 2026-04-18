@@ -596,3 +596,5 @@ TEST_CASE("RssFeed contains a number of matchable attributes", "[RssFeed]")
 		}
 	}
 }
+
+.

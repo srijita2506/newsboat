@@ -648,3 +648,5 @@ ArticleSortStrategy ConfigContainer::get_article_sort_strategy() const
 }
 
 } // namespace newsboat
+
+.

@@ -90,3 +90,5 @@ private:
 } // namespace newsboat
 
 #endif /* NEWSBOAT_CONFIGCONTAINER_H_ */
+
+.
